@@ -6,7 +6,7 @@ Participante:Lucca Pimenta
 
 Comandos: mude a senha que o visual solicita no db.js para a do sql do seu pc.
 
-Crie o database restaurante(se voce não sabe é só abrir o mysql workbench e colocar create database restaurante.
+Crie o database restaurante(se voce não sabe é só abrir o mysql workbench e colocar create database restaurante)
 
 Instale as dependencias:Node.js, Express, bodyparser, handlebars e Sequelize, em sua grande maioria utilize npm install nomedaDependencia
 
