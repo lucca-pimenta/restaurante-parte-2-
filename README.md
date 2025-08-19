@@ -3,6 +3,7 @@
 Nome do projeto:Restaurante parte 2
 
 Participante:Lucca Pimenta
+
 comandos: mude a senha que o visual solicita no db.js para a do sql do seu pc.
 
 
