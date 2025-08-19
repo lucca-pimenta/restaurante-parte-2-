@@ -4,8 +4,9 @@ Nome do projeto:Restaurante parte 2
 
 Participante:Lucca Pimenta
 
-comandos: mude a senha que o visual solicita no db.js para a do sql do seu pc.
-crie o database restaurante.
+Comandos: mude a senha que o visual solicita no db.js para a do sql do seu pc.
 
+Crie o database restaurante.
 
+Instale as dependencias:Node.js, Express, bodyparser, handlebars e Sequelize
 
