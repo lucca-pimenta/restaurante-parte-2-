@@ -10,3 +10,4 @@ Crie o database restaurante.
 
 Instale as dependencias:Node.js, Express, bodyparser, handlebars e Sequelize
 
+De inicio ao no visual studio code usando o node app.js
